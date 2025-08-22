@@ -2,6 +2,8 @@
 
 Aplicación desarrollada en **Java** con arquitectura **MVC** para gestionar reservas de un salón de eventos. Permite ingresar ofertas de horarios con montos y equipamiento y luego, seleccionar las reservas que maximizan la ganancia sin superposición de horarios.
 
+Este proyecto fue realizado para el trabajo práctico de la materia Programación III de la Tecnicatura Universitaria en Informática (UNGS).
+
 ---
 
 ## Tecnologías utilizadas
